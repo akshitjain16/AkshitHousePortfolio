@@ -1,6 +1,6 @@
 # Akshit's 3D Portfolio
 
-![alt text](exemple.png)
+![alt text](example.png)
 
 ### Welcome to my portfolio
 
@@ -14,4 +14,4 @@ This project is built with React Three Fiber, utilizing helpers from Drei. The c
 
 If you notice any bugs or have questions, please contact me at gang.akshitjain@gmail.com.
 
-**Go live :** https://akshitjain16.github.io/KameHousePortfolio/
+**Go live :** https://akshitjain16.github.io/AkshitHousePortfolio/

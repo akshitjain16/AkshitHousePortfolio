@@ -64,7 +64,7 @@ export default function TvScreen(props)
       <mesh 
         position={[0.4, 2.45, -3.48]} 
         scale={[0.09, 0.1, 0.1]} 
-        onClick={() => handleClick("https://github.com/Maxxiiime")}
+        onClick={() => handleClick("https://github.com/akshitjain16")}
       >
         <planeGeometry/>
         <meshBasicMaterial  map={githubTexture} transparent />
@@ -73,7 +73,7 @@ export default function TvScreen(props)
       <mesh 
         position={[0.6, 2.45, -3.48]} 
         scale={[0.09, 0.1, 0.1]} 
-        onClick={() => handleClick("https://x.com/maxxiiime___")}
+        onClick={() => handleClick("https://x.com/akshitjain61")}
       >
         <planeGeometry/>
         <meshBasicMaterial  map={xTexture} transparent />
@@ -82,7 +82,7 @@ export default function TvScreen(props)
       <mesh 
         position={[0.8, 2.45, -3.48]} 
         scale={[0.09, 0.1, 0.1]} 
-        onClick={() => handleClick("https://www.linkedin.com/in/maxime-guillon-developpeur-junior/")}
+        onClick={() => handleClick("https://www.linkedin.com/in/akshitjain16/")}
       >
         <planeGeometry/>
         <meshBasicMaterial  map={linledinTexture} transparent />
@@ -91,7 +91,7 @@ export default function TvScreen(props)
       <mesh 
         position={[0.4, 2.25, -3.48]} 
         scale={[0.07, 0.1, 0.1]}
-        onClick={() => handleClick("./CV/CVGuillonMaxime.pdf")}
+        onClick={() => handleClick("./CV/resume-akshitjain.pdf")}
       >
         <planeGeometry/>
         <meshBasicMaterial  map={cvTexture} transparent />
@@ -100,7 +100,7 @@ export default function TvScreen(props)
       <mesh 
         position={[0.6, 2.25, -3.48]} 
         scale={[0.09, 0.1, 0.1]}
-        onClick={() => handleClick("https://github.com/Maxxiiime/KameHousePortfolio")}
+        onClick={() => handleClick("https://github.com/akshitjain/AkshitHousePortfolio")}
       >
         <planeGeometry/>
         <meshBasicMaterial  map={sourceTexture} transparent />
@@ -109,7 +109,7 @@ export default function TvScreen(props)
       <mesh 
         position={[0.8, 2.25, -3.48]} 
         scale={[0.09, 0.12, 0.12]}
-        onClick={() => handleClick("mailto:max2002guillon@gmail.com")}
+        onClick={() => handleClick("mailto:gang.akshitjain@gmail.com")}
       >
         <planeGeometry/>
         <meshBasicMaterial  map={workTexture} transparent />
