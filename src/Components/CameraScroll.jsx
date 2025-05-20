@@ -920,7 +920,7 @@ export default function CameraScroll(props) {
                 material-side={FrontSide}
                 material-opacity={0}
             >
-            Higher National Diploma in Computer Sciences
+            Higher Secondary (10th)
             </Text>
             <Text
                 ref={dut2TextRef}
@@ -932,7 +932,7 @@ export default function CameraScroll(props) {
                 material-side={FrontSide}
                 material-opacity={0}
             >
-                (DUT informatique)
+                (Percentage: 87)
             </Text>
 
              <Text
@@ -945,7 +945,7 @@ export default function CameraScroll(props) {
                 material-side={FrontSide}
                 material-opacity={0}
             >
-                University of La Rochelle
+                SVGMS
             </Text>
         </group>
 
@@ -961,7 +961,7 @@ export default function CameraScroll(props) {
                 material-side={FrontSide}
                 material-opacity={0}
             >
-            Bachelor’s degree in Computer Sciences
+            Senior Secondary with PCM (12th)
             </Text>
             <Text
                 ref={licence2TextRef}
@@ -973,7 +973,7 @@ export default function CameraScroll(props) {
                 material-side={FrontSide}
                 material-opacity={0}
             >
-                (CGPA: 8.8)
+                (Percentage: 92)
             </Text>
 
              <Text
@@ -986,7 +986,7 @@ export default function CameraScroll(props) {
                 material-side={FrontSide}
                 material-opacity={0}
             >
-                MBM University Jodhpur
+                SVGMS
             </Text>
         </group>
 
@@ -1002,7 +1002,7 @@ export default function CameraScroll(props) {
                 material-side={FrontSide}
                 material-opacity={0}
             >
-            Master’s degree in Computer Sciences (In progress...)
+            Bachelor’s degree in Computer Sciences (In progress...)
             </Text>
             <Text
                 ref={master2TextRef}
@@ -1014,7 +1014,7 @@ export default function CameraScroll(props) {
                 material-side={FrontSide}
                 material-opacity={0}
             >
-                (Master informatique)
+                (CGPA: 8.8)
             </Text>
 
              <Text
@@ -1027,7 +1027,7 @@ export default function CameraScroll(props) {
                 material-side={FrontSide}
                 material-opacity={0}
             >
-                University of Bordeaux
+                MBM University Jodhpur
             </Text>
         </group>
 
@@ -1110,7 +1110,7 @@ export default function CameraScroll(props) {
                 maxWidth={1}
                 material-opacity={0}
             >
-                I like sports
+                I love playing sports
             </Text>
             <Text
                 ref={sport2TextRef}
@@ -1122,7 +1122,7 @@ export default function CameraScroll(props) {
                 maxWidth={1}
                 material-opacity={0}                
             >
-                I pratice 
+              
             </Text>
         </group>
 

@@ -2,11 +2,11 @@ import { useTexture } from '@react-three/drei'
 
 export default function VinylsCovers(props)
 {
-    const ULMATexture = useTexture('./Textures/ulma.jpg')
-    const ROCPTexture = useTexture('./Textures/rocp.jpg')
-    const PNLTexture = useTexture('./Textures/pnl.jpg')
-    const HamzaTexture = useTexture('./Textures/hamza.jpg')
-    const boobaTexture = useTexture('./Textures/booba.jpg')
+    const ULMATexture = useTexture('./Textures/shreya.png')
+    const ROCPTexture = useTexture('./Textures/kishor.png')
+    const PNLTexture = useTexture('./Textures/sonu.png')
+    const HamzaTexture = useTexture('./Textures/atif.png')
+    const boobaTexture = useTexture('./Textures/arjit.png')
 
 
 
